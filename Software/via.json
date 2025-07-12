@@ -1,0 +1,19 @@
+{
+    "name": "Jaron's Business Card Macro Pad",
+    "productId": "0002",
+    "vendorId": "4A4F",
+    "matrix": {
+        "rows": 3,
+        "cols": 3
+    },
+    "layouts": {
+        "keymap": [
+            ["0,2\n\n\n\n\n\n\n\n\ne0"],
+            ["0,0","0,1"],
+            ["1,0","1,1"],
+            ["2,0","2,1"]
+        ]
+    },
+    "keycodes": ["qmk_lighting"],
+    "menus": ["qmk_rgblight"]
+}
